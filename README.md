@@ -1,5 +1,5 @@
 # Beatsv1
-https://1varunvc.github.io/Beatsv1/
+https://1varunvc.github.io/BeatsV1/
 
 The website is not compatible with mobile.
 
