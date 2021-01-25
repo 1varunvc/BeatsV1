@@ -6,7 +6,8 @@ This update includes:
   [That is, all the unused CSS is removed using PurifyCSS Online.  
   It also removed CSS for h1 and h2 tag, which had to be added manually then. CSS for H1 and H2 is resposible for fonts.
   It also removed CSS for another tag (I don't remeber which one), but the CSS for it also got added, so nothing to worry about.)
-    
+   
+  -All the JS was unnecessary, hence, got removed in Beatsv1-mains.
   -BS5 CSS files via local external files. [That is, external CDN Link removed. The local file only includes the 'used' CSS.]  
   -Correct src to all the pages.  
   -Correct href to all the images.  
