@@ -28,7 +28,6 @@ This update includes:
           <a class="nav-link" href="">|</a>
         </li>
       </ul>
-      
       or removing just the "|" from the anchor tag, 'causes the navigation bar to get thin. That is, 'padding' gets reduced.
       
       
