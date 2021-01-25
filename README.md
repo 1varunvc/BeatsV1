@@ -1,6 +1,8 @@
 # Beatsv1
 https://1varunvc.github.io/Beatsv1/
 
+The website is not compatible with mobile.
+
 This update includes:  
   -Only the 'used' CSS.  
   [That is, all the unused CSS is removed using PurifyCSS Online.  
@@ -33,4 +35,6 @@ This update includes:
   }
       or removing just the "|" from the anchor tag, 'causes the navigation bar to get thin. That is, 'padding' gets reduced.
       
+   -'ml-auto' class, used to align list items in navbar, changed to 'ms-auto' to fit BS5 standards.  
+   ['ml-auto' class exists in in BS4. 'ms-auto' class exists in in BS5.]
       
