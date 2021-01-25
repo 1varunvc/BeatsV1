@@ -23,13 +23,15 @@ This update includes:
   -The music player doesn't react on hover. Unlike earlier, when it used to get zoomed-in on hover, and everything get somewhat blurred. This zooming-in also added difficulty in selecting tracks.  
   
   -Removing
-  {
+  
+  <!DOCTYPE html>
+  <html>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="">|</a>
         </li>
       </ul>
-  }
+  </html>
       or removing just the "|" from the anchor tag, 'causes the navigation bar to get thin. That is, 'padding' gets reduced.
       
       
