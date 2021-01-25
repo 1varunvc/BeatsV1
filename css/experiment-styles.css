@@ -1,0 +1,59 @@
+b, body, div, h1, h2, h3, h4, h5, h6, html, iframe, img, li, nav, section, ul {
+  margin: 0;
+  padding: 5px;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: 0 0
+}
+
+ul {
+  list-style: none
+}
+
+nav, section {
+  display: block
+}
+
+b {
+  font-weight: 700
+}
+
+a {
+  cursor: pointer
+}
+
+body {
+  font-size: 1em;
+  line-height: 1.5em;
+  color: #666;
+  background: #f1ebe2;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: 200
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200
+}
+
+ul {
+  margin-bottom: 24px;
+  line-height: 24px
+}
+
+ul ul {
+  margin-bottom: 0
+}
+
+a {
+  color: #333
+}
+
+a:visited {
+  font-weight: 400
+}
+
+a:active, a:focus, a:hover {
+  color: #000;
+  text-decoration: underline
+}
