@@ -26,11 +26,13 @@ This update includes:
   
   <!DOCTYPE html>
   <html>
+  <body>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="">|</a>
         </li>
       </ul>
+  </body>
   </html>
       or removing just the "|" from the anchor tag, 'causes the navigation bar to get thin. That is, 'padding' gets reduced.
       
