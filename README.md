@@ -1,9 +1,10 @@
-#Beatsv1
+# Beatsv1
 https://1varunvc.github.io/BeatsV1/
 
-#Release Notes
-##1.0.0
-The website is not compatible with mobile.
+The website is not mobile-compatible.
+
+# Release Notes
+## 1.0.0
 
 This update includes:  
   -Only the 'used' CSS.  
